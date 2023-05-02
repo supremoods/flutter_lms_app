@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41127822883",
+    "project_id": "learning-app-82359",
+    "storage_bucket": "learning-app-82359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41127822883:android:6a412689cb1dc00c851396",
+        "android_client_info": {
+          "package_name": "com.lms.learning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41127822883-231f4vbfda53v7qgh9lp7tbftmier6fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP7Z7bVn5NNb0R7Kdv2uzVMUCHcbRiSCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41127822883-231f4vbfda53v7qgh9lp7tbftmier6fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
