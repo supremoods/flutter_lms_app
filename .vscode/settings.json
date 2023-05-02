@@ -1,3 +1,4 @@
 {
-   "java.configuration.updateBuildConfiguration": "interactive"
+   "java.configuration.updateBuildConfiguration": "automatic",
+   "cmake.sourceDirectory": "E:/repositories/Github/Interns-Activities/flutter-projects/flutter_lms_app/linux"
 }
